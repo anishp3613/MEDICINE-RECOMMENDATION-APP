@@ -1,7 +1,7 @@
 # MEDICINE-RECOMMENDATION-APP
 Streamlit enables rapid creation of interactive ML and data science web apps from Python code using venv isolation, without HTML/CSS/JS, and with instant visual feedback.
 
- 
+  
 # Medicine Recommendation App
 
 ⚠️ **Disclaimer:** This app is for **educational purposes only**. Do *not* use it for medical diagnosis or treatment. Always consult a **qualified healthcare professional** before taking any medication.
